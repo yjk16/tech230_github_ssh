@@ -91,7 +91,7 @@ Should be successfully authenticated.
 3. In your Bash terminal go to the directory you want to be in
 
 4. Enter:
-`git clone <ssh code>
+`git clone <ssh code>`
 
 ----
 
